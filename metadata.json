@@ -1,0 +1,6 @@
+{
+  "name": "SHA GPA - El Shorouk Academy Mobile GPA Calculator",
+  "description": "Mobile-first GPA & CGPA calculator, target planner, and academic standing tracker tailored for El Shorouk Academy (SHA) students on iOS and Android.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
